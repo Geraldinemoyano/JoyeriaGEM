@@ -17,7 +17,8 @@ Aclaraciones:
 
 # Aproximación caso de uso:
 
-![Aproximación caso de uso](https://github.com/Geraldinemoyano/JoyeriaGEM/assets/133627023/ee591e35-5650-478f-a8b7-3096c41b28a9)
+![Captura](https://github.com/Geraldinemoyano/JoyeriaGEM/assets/133627023/a427b043-0b7a-45f4-9dcb-9af0513808e8)
+
 
 # Aproximación Diagrama de Flujo:
 
