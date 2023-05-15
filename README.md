@@ -21,8 +21,6 @@ Aclaraciones:
 
 # Aproximación Diagrama de Flujo:
 
-![1](https://github.com/Geraldinemoyano/JoyeriaGEM/assets/133627023/1288ad6d-c974-4eee-8de9-60e0df868a95)
-![2](https://github.com/Geraldinemoyano/JoyeriaGEM/assets/133627023/2217373b-5413-48b3-8c91-d34b5e44292e)
-![3](https://github.com/Geraldinemoyano/JoyeriaGEM/assets/133627023/c887b20a-4b65-479d-a59a-feb06cec8595)
+![JoyeriaGEM](https://github.com/Geraldinemoyano/JoyeriaGEM/assets/133627023/4421bfd0-1729-474b-bf35-338315e9a73f)
 
 
