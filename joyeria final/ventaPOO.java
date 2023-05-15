@@ -10,7 +10,14 @@ public class ventaPOO
 {
 
     String B;
-        int sumajoyas, prototal;
-        int A, C, D, E, vkilates, tkilates, nplata;
+        int sumajoyas
+        int prototal;
+        int A;
+        int C;
+        int D;
+        int E;
+        int vkilates;
+        int tkilates;
+        int nplata;
 
 }
